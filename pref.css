@@ -13,11 +13,9 @@ h3{
     text-decoration: underline;
 }
 
-img.resize{
-    max-width: 400px; /*taken from stackoverflow*/
-    max-height: 400px;
+img {
+    max-width: 200px; /*taken from stackoverflow*/
     height: auto;
-    width: auto;
 }
 
 li{
