@@ -21,3 +21,7 @@ img {
 ul {
     border-left: 5px solid #800000;
 }
+
+p {
+    width: 70%;
+}
