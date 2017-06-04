@@ -20,6 +20,6 @@ img.resize{
     width: auto;
 }
 
-ul{
-    border-left: 5px blue;
+li{
+    border-left: 5px #0000ff;
 }
