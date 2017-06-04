@@ -5,7 +5,6 @@
   <head>
     <title>Matthew Turner - Resume</title>
     <meta charset="utf-8" />
-    <link rel="stylesheet" type="text/css" href="pref.css">
   </head>
 
   <body>
@@ -39,16 +38,14 @@
 
     <h3>Professional Experience</h3>
     <ul>
-      <li>Teaching Fellow, Discrete Math - Summer 2016
+      <li>Teaching Fellow, Discrete Math - Summer 2016</li>
       <ul>
 	<li>Led recitation and Piazza. Held office hours, wrote homework solutions, graded.</li>
       </ul>
-      </li>
-      <li>Grader, Discrete Math - Fall 2016
+      <li>Grader, Discrete Math - Fall 2016</li>
       <ul>
 	<li>Head grader for class of 70. 48 hour turnaround on homework grading. Worked on homework solutions. Monitored Piazza.</li>
       </ul>
-      </li>
     </ul>
     <br>
 
